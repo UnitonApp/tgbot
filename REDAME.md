@@ -20,7 +20,7 @@ This bot is designed for communication with interested audience, allows visitors
 
 ## Built With
 
-This project is developed in procedural PHP version 7+ without the use of libraries, which allows you to run it on any hosting that supports PHP and MySQL. This approach also makes it easy and accessible to edit the bot's code. 
+This project is developed in procedural Python version 3.5+ without the use of libraries, which allows you to run it on any hosting that supports PHP and MySQL. This approach also makes it easy and accessible to edit the bot's code. 
 
 ## Getting Started
 
