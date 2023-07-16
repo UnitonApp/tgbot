@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple steps described below.
 
 ### Prerequisites
 
-This project requires any hosting that supports PHP 7 and MySQL. 
+This project requires any hosting that supports Python 3.5 and MySQL. 
 
 ### Installation
 
